@@ -13,6 +13,7 @@
 		3FA43ECD23AC40F8005E320F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FA43ECB23AC40F8005E320F /* Main.storyboard */; };
 		3FA43ECF23AC40FD005E320F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FA43ECE23AC40FD005E320F /* Assets.xcassets */; };
 		3FA43ED223AC40FD005E320F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FA43ED023AC40FD005E320F /* LaunchScreen.storyboard */; };
+		3FA43EDA23AC4E79005E320F /* FlagDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FA43ED923AC4E79005E320F /* FlagDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3FA43ECE23AC40FD005E320F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FA43ED123AC40FD005E320F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FA43ED323AC40FD005E320F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FA43ED923AC4E79005E320F /* FlagDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3FA43EC523AC40F8005E320F /* AppDelegate.swift */,
 				3FA43EC723AC40F8005E320F /* SceneDelegate.swift */,
 				3FA43EC923AC40F8005E320F /* ViewController.swift */,
+				3FA43ED923AC4E79005E320F /* FlagDetailViewController.swift */,
 				3FA43ECB23AC40F8005E320F /* Main.storyboard */,
 				3FA43ECE23AC40FD005E320F /* Assets.xcassets */,
 				3FA43ED023AC40FD005E320F /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FA43ECA23AC40F8005E320F /* ViewController.swift in Sources */,
+				3FA43EDA23AC4E79005E320F /* FlagDetailViewController.swift in Sources */,
 				3FA43EC623AC40F8005E320F /* AppDelegate.swift in Sources */,
 				3FA43EC823AC40F8005E320F /* SceneDelegate.swift in Sources */,
 			);
